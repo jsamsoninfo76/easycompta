@@ -1,9 +1,7 @@
 <?php
 
-include("include.php");
+include("include/include.php");
 
-echo "toto";
 
-print_r($database);
 
 ?>
