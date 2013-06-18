@@ -1,4 +1,9 @@
 <?php
+/***** TEST *****
+ * add_user.php
+ * 
+ * Ajoute un utilisateur dans la base de données
+ */
 
 include('../include/include.php');
 
