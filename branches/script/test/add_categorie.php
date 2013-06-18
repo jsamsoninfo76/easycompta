@@ -1,5 +1,10 @@
 <?php
-
+/***** TEST *****
+ * add_categorie.php
+ * 
+ * Ajoute une categorie dans la base de données
+ */
+ 
 include('../include/include.php');
 
 $categorie = $_GET['categorie'];
